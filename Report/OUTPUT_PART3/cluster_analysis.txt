@@ -1,0 +1,304 @@
+﻿Cluster Report (K=8)
+==================================================
+From: Report/OUTPUT_PART1/results.csv
+K chosen: 8 (kmeans_elbow_plot.png)
+==================================================
+
+Overall Averages:
+- Goalkeeping: Performance: Save%: 68.21
+- Goalkeeping: Performance: GA90: 1.48
+- Defensive Actions: Tackles: TklW: 14.57
+- Defensive Actions: Blocks: Int: 11.09
+- Passing: Total: Cmp%: 79.25
+- Possession: Touches: Mid 3rd: 352.30
+- Possession: Touches: Att Pen: 34.30
+- Passing: Expected: PrgP: 51.06
+- Possession: Carries: PrgC: 25.90
+- Possession: Take-Ons: Succ%: 46.59
+- Passing: Expected: KP: 13.56
+- Passing: Expected: PPA: 11.54
+- Goal and Shot Creation: SCA: SCA90: 2.09
+- Possession: Receiving: PrgR: 13.09
+- Per 90 minutes: Ast: 0.09
+- Per 90 minutes: Gls: 0.12
+- Shooting: Standard: SoT/90: 0.40
+- Expected: xG: 2.01
+
+==================================================
+
+--- Cluster 0 ---
+21 players (4.3%)
+Top Positions:
+  - GK: 21 (100.0%)
+Top Teams:
+  - Liverpool: 2 (9.5%)
+  - Southampton: 1 (4.8%)
+  - West Ham: 1 (4.8%)
+
+Key Stats:
+- Goalkeeping: Performance: Save%: 69.11 (vs. 68.21) → [Average]
+- Goalkeeping: Performance: GA90: 1.43 (vs. 1.48) → [Average]
+- Defensive Actions: Tackles: TklW: 0.81 (vs. 14.57) → [Low]
+- Defensive Actions: Blocks: Int: 0.48 (vs. 11.09) → [Low]
+- Passing: Total: Cmp%: 72.41 (vs. 79.25) → [Slightly Low]
+- Possession: Touches: Mid 3rd: 22.62 (vs. 352.30) → [Low]
+- Possession: Touches: Att Pen: 0.10 (vs. 34.30) → [Low]
+- Passing: Expected: PrgP: 1.38 (vs. 51.06) → [Low]
+- Possession: Carries: PrgC: 0.00 (vs. 25.90) → [Low]
+- Possession: Take-Ons: Succ%: 71.09 (vs. 46.59) → [High]
+- Passing: Expected: KP: 1.19 (vs. 13.56) → [Low]
+- Passing: Expected: PPA: 1.05 (vs. 11.54) → [Low]
+- Goal and Shot Creation: SCA: SCA90: 0.18 (vs. 2.09) → [Low]
+- Possession: Receiving: PrgR: 0.10 (vs. 13.09) → [Low]
+- Per 90 minutes: Ast: 0.02 (vs. 0.09) → [Low]
+- Per 90 minutes: Gls: 0.00 (vs. 0.12) → [Low]
+- Shooting: Standard: SoT/90: 0.00 (vs. 0.40) → [Low]
+- Expected: xG: 0.00 (vs. 2.01) → [Low]
+
+Hint:
+Cluster 0 tends to have: low TklW, low Int, low Mid 3rd, low Att Pen, low PrgP, low PrgC, high Succ%, low KP, low PPA, low SCA90, low PrgR, low Ast, low Gls, low SoT/90, low xG. Common positions: Liverpool, Southampton, West Ham.
+----------------------------------------
+
+--- Cluster 1 ---
+47 players (9.6%)
+Top Positions:
+  - FW: 17 (36.2%)
+  - FW,MF: 16 (34.0%)
+  - MF,FW: 9 (19.1%)
+Top Teams:
+  - Chelsea: 4 (8.5%)
+  - Arsenal: 4 (8.5%)
+  - Bournemouth: 4 (8.5%)
+
+Key Stats:
+- Goalkeeping: Performance: Save%: 68.30 (vs. 68.21) → [Average]
+- Goalkeeping: Performance: GA90: 1.47 (vs. 1.48) → [Average]
+- Defensive Actions: Tackles: TklW: 17.13 (vs. 14.57) → [Slightly High]
+- Defensive Actions: Blocks: Int: 8.96 (vs. 11.09) → [Slightly Low]
+- Passing: Total: Cmp%: 75.28 (vs. 79.25) → [Slightly Low]
+- Possession: Touches: Mid 3rd: 403.09 (vs. 352.30) → [Slightly High]
+- Possession: Touches: Att Pen: 116.81 (vs. 34.30) → [High]
+- Passing: Expected: PrgP: 90.57 (vs. 51.06) → [High]
+- Possession: Carries: PrgC: 91.28 (vs. 25.90) → [High]
+- Possession: Take-Ons: Succ%: 42.30 (vs. 46.59) → [Slightly Low]
+- Passing: Expected: KP: 41.74 (vs. 13.56) → [High]
+- Passing: Expected: PPA: 38.62 (vs. 11.54) → [High]
+- Goal and Shot Creation: SCA: SCA90: 3.97 (vs. 2.09) → [High]
+- Possession: Receiving: PrgR: 38.19 (vs. 13.09) → [High]
+- Per 90 minutes: Ast: 0.23 (vs. 0.09) → [High]
+- Per 90 minutes: Gls: 0.30 (vs. 0.12) → [High]
+- Shooting: Standard: SoT/90: 0.86 (vs. 0.40) → [High]
+- Expected: xG: 6.45 (vs. 2.01) → [High]
+
+Hint:
+Cluster 1 tends to have: high Att Pen, high PrgP, high PrgC, high KP, high PPA, high SCA90, high PrgR, high Ast, high Gls, high SoT/90, high xG. Common positions: Chelsea, Arsenal, Bournemouth.
+----------------------------------------
+
+--- Cluster 2 ---
+37 players (7.5%)
+Top Positions:
+  - DF: 37 (100.0%)
+Top Teams:
+  - Brentford: 3 (8.1%)
+  - Fulham: 2 (5.4%)
+  - Ipswich Town: 2 (5.4%)
+
+Key Stats:
+- Goalkeeping: Performance: Save%: 68.30 (vs. 68.21) → [Average]
+- Goalkeeping: Performance: GA90: 1.47 (vs. 1.48) → [Average]
+- Defensive Actions: Tackles: TklW: 23.24 (vs. 14.57) → [High]
+- Defensive Actions: Blocks: Int: 28.11 (vs. 11.09) → [High]
+- Passing: Total: Cmp%: 86.72 (vs. 79.25) → [Slightly High]
+- Possession: Touches: Mid 3rd: 854.00 (vs. 352.30) → [High]
+- Possession: Touches: Att Pen: 29.16 (vs. 34.30) → [Slightly Low]
+- Passing: Expected: PrgP: 95.86 (vs. 51.06) → [High]
+- Possession: Carries: PrgC: 18.14 (vs. 25.90) → [Low]
+- Possession: Take-Ons: Succ%: 62.57 (vs. 46.59) → [High]
+- Passing: Expected: KP: 8.27 (vs. 13.56) → [Low]
+- Passing: Expected: PPA: 6.51 (vs. 11.54) → [Low]
+- Goal and Shot Creation: SCA: SCA90: 0.99 (vs. 2.09) → [Low]
+- Possession: Receiving: PrgR: 4.97 (vs. 13.09) → [Low]
+- Per 90 minutes: Ast: 0.02 (vs. 0.09) → [Low]
+- Per 90 minutes: Gls: 0.04 (vs. 0.12) → [Low]
+- Shooting: Standard: SoT/90: 0.17 (vs. 0.40) → [Low]
+- Expected: xG: 1.54 (vs. 2.01) → [Low]
+
+Hint:
+Cluster 2 tends to have: high TklW, high Int, high Mid 3rd, high PrgP, low PrgC, high Succ%, low KP, low PPA, low SCA90, low PrgR, low Ast, low Gls, low SoT/90, low xG. Common positions: Brentford, Fulham, Ipswich Town.
+----------------------------------------
+
+--- Cluster 3 ---
+102 players (20.8%)
+Top Positions:
+  - DF: 42 (41.2%)
+  - MF: 36 (35.3%)
+  - DF,MF: 8 (7.8%)
+Top Teams:
+  - Tottenham: 9 (8.8%)
+  - Southampton: 8 (7.8%)
+  - Ipswich Town: 7 (6.9%)
+
+Key Stats:
+- Goalkeeping: Performance: Save%: 68.30 (vs. 68.21) → [Average]
+- Goalkeeping: Performance: GA90: 1.47 (vs. 1.48) → [Average]
+- Defensive Actions: Tackles: TklW: 17.73 (vs. 14.57) → [High]
+- Defensive Actions: Blocks: Int: 14.57 (vs. 11.09) → [High]
+- Passing: Total: Cmp%: 83.98 (vs. 79.25) → [Slightly High]
+- Possession: Touches: Mid 3rd: 423.84 (vs. 352.30) → [High]
+- Possession: Touches: Att Pen: 18.77 (vs. 34.30) → [Low]
+- Passing: Expected: PrgP: 53.63 (vs. 51.06) → [Slightly High]
+- Possession: Carries: PrgC: 18.16 (vs. 25.90) → [Low]
+- Possession: Take-Ons: Succ%: 42.99 (vs. 46.59) → [Slightly Low]
+- Passing: Expected: KP: 10.05 (vs. 13.56) → [Low]
+- Passing: Expected: PPA: 8.00 (vs. 11.54) → [Low]
+- Goal and Shot Creation: SCA: SCA90: 1.79 (vs. 2.09) → [Slightly Low]
+- Possession: Receiving: PrgR: 9.69 (vs. 13.09) → [Low]
+- Per 90 minutes: Ast: 0.06 (vs. 0.09) → [Low]
+- Per 90 minutes: Gls: 0.04 (vs. 0.12) → [Low]
+- Shooting: Standard: SoT/90: 0.21 (vs. 0.40) → [Low]
+- Expected: xG: 0.81 (vs. 2.01) → [Low]
+
+Hint:
+Cluster 3 tends to have: high TklW, high Int, high Mid 3rd, low Att Pen, low PrgC, low KP, low PPA, low PrgR, low Ast, low Gls, low SoT/90, low xG. Common positions: Tottenham, Southampton, Ipswich Town.
+----------------------------------------
+
+--- Cluster 4 ---
+72 players (14.7%)
+Top Positions:
+  - FW,MF: 29 (40.3%)
+  - FW: 19 (26.4%)
+  - MF,FW: 11 (15.3%)
+Top Teams:
+  - Aston Villa: 7 (9.7%)
+  - Ipswich Town: 7 (9.7%)
+  - Brighton: 5 (6.9%)
+
+Key Stats:
+- Goalkeeping: Performance: Save%: 68.30 (vs. 68.21) → [Average]
+- Goalkeeping: Performance: GA90: 1.47 (vs. 1.48) → [Average]
+- Defensive Actions: Tackles: TklW: 5.78 (vs. 14.57) → [Low]
+- Defensive Actions: Blocks: Int: 3.36 (vs. 11.09) → [Low]
+- Passing: Total: Cmp%: 73.82 (vs. 79.25) → [Slightly Low]
+- Possession: Touches: Mid 3rd: 120.60 (vs. 352.30) → [Low]
+- Possession: Touches: Att Pen: 29.17 (vs. 34.30) → [Slightly Low]
+- Passing: Expected: PrgP: 19.43 (vs. 51.06) → [Low]
+- Possession: Carries: PrgC: 18.99 (vs. 25.90) → [Low]
+- Possession: Take-Ons: Succ%: 39.26 (vs. 46.59) → [Slightly Low]
+- Passing: Expected: KP: 8.89 (vs. 13.56) → [Low]
+- Passing: Expected: PPA: 7.60 (vs. 11.54) → [Low]
+- Goal and Shot Creation: SCA: SCA90: 3.09 (vs. 2.09) → [High]
+- Possession: Receiving: PrgR: 10.67 (vs. 13.09) → [Slightly Low]
+- Per 90 minutes: Ast: 0.17 (vs. 0.09) → [High]
+- Per 90 minutes: Gls: 0.29 (vs. 0.12) → [High]
+- Shooting: Standard: SoT/90: 0.92 (vs. 0.40) → [High]
+- Expected: xG: 1.89 (vs. 2.01) → [Slightly Low]
+
+Hint:
+Cluster 4 tends to have: low TklW, low Int, low Mid 3rd, low PrgP, low PrgC, low KP, low PPA, high SCA90, high Ast, high Gls, high SoT/90. Common positions: Aston Villa, Ipswich Town, Brighton.
+----------------------------------------
+
+--- Cluster 5 ---
+27 players (5.5%)
+Top Positions:
+  - FW: 22 (81.5%)
+  - MF,FW: 2 (7.4%)
+  - FW,MF: 2 (7.4%)
+Top Teams:
+  - Everton: 2 (7.4%)
+  - Tottenham: 2 (7.4%)
+  - Leicester City: 2 (7.4%)
+
+Key Stats:
+- Goalkeeping: Performance: Save%: 68.30 (vs. 68.21) → [Average]
+- Goalkeeping: Performance: GA90: 1.47 (vs. 1.48) → [Average]
+- Defensive Actions: Tackles: TklW: 10.63 (vs. 14.57) → [Low]
+- Defensive Actions: Blocks: Int: 5.48 (vs. 11.09) → [Low]
+- Passing: Total: Cmp%: 69.46 (vs. 79.25) → [Slightly Low]
+- Possession: Touches: Mid 3rd: 273.19 (vs. 352.30) → [Low]
+- Possession: Touches: Att Pen: 101.96 (vs. 34.30) → [High]
+- Passing: Expected: PrgP: 38.52 (vs. 51.06) → [Low]
+- Possession: Carries: PrgC: 31.67 (vs. 25.90) → [High]
+- Possession: Take-Ons: Succ%: 37.33 (vs. 46.59) → [Slightly Low]
+- Passing: Expected: KP: 17.81 (vs. 13.56) → [High]
+- Passing: Expected: PPA: 10.04 (vs. 11.54) → [Slightly Low]
+- Goal and Shot Creation: SCA: SCA90: 2.04 (vs. 2.09) → [Average]
+- Possession: Receiving: PrgR: 30.59 (vs. 13.09) → [High]
+- Per 90 minutes: Ast: 0.11 (vs. 0.09) → [High]
+- Per 90 minutes: Gls: 0.45 (vs. 0.12) → [High]
+- Shooting: Standard: SoT/90: 1.06 (vs. 0.40) → [High]
+- Expected: xG: 9.29 (vs. 2.01) → [High]
+
+Hint:
+Cluster 5 tends to have: low TklW, low Int, low Mid 3rd, high Att Pen, low PrgP, high PrgC, high KP, high PrgR, high Ast, high Gls, high SoT/90, high xG. Common positions: Everton, Tottenham, Leicester City.
+----------------------------------------
+
+--- Cluster 6 ---
+121 players (24.6%)
+Top Positions:
+  - DF: 52 (43.0%)
+  - GK: 18 (14.9%)
+  - MF: 17 (14.0%)
+Top Teams:
+  - Southampton: 12 (9.9%)
+  - Manchester Utd: 9 (7.4%)
+  - Aston Villa: 9 (7.4%)
+
+Key Stats:
+- Goalkeeping: Performance: Save%: 67.79 (vs. 68.21) → [Average]
+- Goalkeeping: Performance: GA90: 1.53 (vs. 1.48) → [Average]
+- Defensive Actions: Tackles: TklW: 3.80 (vs. 14.57) → [Low]
+- Defensive Actions: Blocks: Int: 2.98 (vs. 11.09) → [Low]
+- Passing: Total: Cmp%: 80.07 (vs. 79.25) → [Average]
+- Possession: Touches: Mid 3rd: 92.89 (vs. 352.30) → [Low]
+- Possession: Touches: Att Pen: 4.95 (vs. 34.30) → [Low]
+- Passing: Expected: PrgP: 10.80 (vs. 51.06) → [Low]
+- Possession: Carries: PrgC: 4.06 (vs. 25.90) → [Low]
+- Possession: Take-Ons: Succ%: 49.18 (vs. 46.59) → [Slightly High]
+- Passing: Expected: KP: 1.82 (vs. 13.56) → [Low]
+- Passing: Expected: PPA: 1.66 (vs. 11.54) → [Low]
+- Goal and Shot Creation: SCA: SCA90: 1.46 (vs. 2.09) → [Low]
+- Possession: Receiving: PrgR: 2.15 (vs. 13.09) → [Low]
+- Per 90 minutes: Ast: 0.03 (vs. 0.09) → [Low]
+- Per 90 minutes: Gls: 0.01 (vs. 0.12) → [Low]
+- Shooting: Standard: SoT/90: 0.16 (vs. 0.40) → [Low]
+- Expected: xG: 0.18 (vs. 2.01) → [Low]
+
+Hint:
+Cluster 6 tends to have: low TklW, low Int, low Mid 3rd, low Att Pen, low PrgP, low PrgC, low KP, low PPA, low SCA90, low PrgR, low Ast, low Gls, low SoT/90, low xG. Common positions: Southampton, Manchester Utd, Aston Villa.
+----------------------------------------
+
+--- Cluster 7 ---
+64 players (13.0%)
+Top Positions:
+  - DF: 28 (43.8%)
+  - MF: 27 (42.2%)
+  - MF,FW: 5 (7.8%)
+Top Teams:
+  - Leicester City: 5 (7.8%)
+  - Newcastle Utd: 5 (7.8%)
+  - Liverpool: 4 (6.2%)
+
+Key Stats:
+- Goalkeeping: Performance: Save%: 68.30 (vs. 68.21) → [Average]
+- Goalkeeping: Performance: GA90: 1.47 (vs. 1.48) → [Average]
+- Defensive Actions: Tackles: TklW: 39.06 (vs. 14.57) → [High]
+- Defensive Actions: Blocks: Int: 27.16 (vs. 11.09) → [High]
+- Passing: Total: Cmp%: 81.23 (vs. 79.25) → [Average]
+- Possession: Touches: Mid 3rd: 803.58 (vs. 352.30) → [High]
+- Possession: Touches: Att Pen: 45.34 (vs. 34.30) → [High]
+- Passing: Expected: PrgP: 125.34 (vs. 51.06) → [High]
+- Possession: Carries: PrgC: 49.88 (vs. 25.90) → [High]
+- Possession: Take-Ons: Succ%: 45.46 (vs. 46.59) → [Average]
+- Passing: Expected: KP: 31.20 (vs. 13.56) → [High]
+- Passing: Expected: PPA: 27.38 (vs. 11.54) → [High]
+- Goal and Shot Creation: SCA: SCA90: 2.57 (vs. 2.09) → [High]
+- Possession: Receiving: PrgR: 25.05 (vs. 13.09) → [High]
+- Per 90 minutes: Ast: 0.11 (vs. 0.09) → [High]
+- Per 90 minutes: Gls: 0.07 (vs. 0.12) → [Low]
+- Shooting: Standard: SoT/90: 0.25 (vs. 0.40) → [Low]
+- Expected: xG: 2.10 (vs. 2.01) → [Average]
+
+Hint:
+Cluster 7 tends to have: high TklW, high Int, high Mid 3rd, high Att Pen, high PrgP, high PrgC, high KP, high PPA, high SCA90, high PrgR, high Ast, low Gls, low SoT/90. Common positions: Leicester City, Newcastle Utd, Liverpool.
+----------------------------------------
+
