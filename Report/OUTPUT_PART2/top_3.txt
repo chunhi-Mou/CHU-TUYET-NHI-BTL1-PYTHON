@@ -1,0 +1,1096 @@
+﻿--- Top and Bottom 3 Players per Statistic ---
+
+
+--- Playing Time: matches played ---
+
+Top 3:
+         Player          Team  Playing Time: matches played
+Youri Tielemans   Aston Villa                            34
+Virgil van Dijk     Liverpool                            34
+Bruno Guimarães Newcastle Utd                            34
+
+Bottom 3:
+                 Player            Team  Playing Time: matches played
+   Jahmai Simpson-Pusey Manchester City                             2
+           Ayden Heaven  Manchester Utd                             2
+Hákon Rafn Valdimarsson       Brentford                             2
+
+
+--- Playing Time: starts ---
+
+Top 3:
+         Player           Team  Playing Time: starts
+Youri Tielemans    Aston Villa                    34
+Tyrick Mitchell Crystal Palace                    34
+Virgil van Dijk      Liverpool                    34
+
+Bottom 3:
+       Player          Team  Playing Time: starts
+  Wataru Endo     Liverpool                     0
+William Osula Newcastle Utd                     0
+  Emi Buendía   Aston Villa                     0
+
+
+--- Playing Time: minutes ---
+
+Top 3:
+         Player            Team  Playing Time: minutes
+Virgil van Dijk       Liverpool                   3060
+ Nathan Collins       Brentford                   3060
+      Matz Sels Nott'ham Forest                   3060
+
+Bottom 3:
+              Player            Team  Playing Time: minutes
+       Harrison Reed          Fulham                     93
+        Ayden Heaven  Manchester Utd                     95
+Jahmai Simpson-Pusey Manchester City                     96
+
+
+--- Performance: goals ---
+
+Top 3:
+        Player            Team  Performance: goals
+ Mohamed Salah       Liverpool                  28
+Alexander Isak   Newcastle Utd                  22
+Erling Haaland Manchester City                  21
+
+Bottom 3:
+          Player           Team  Performance: goals
+Chiedozie Ogbene   Ipswich Town                   0
+ Cheick Doucouré Crystal Palace                   0
+    Adam Webster       Brighton                   0
+
+
+--- Performance: assists ---
+
+Top 3:
+          Player          Team  Performance: assists
+   Mohamed Salah     Liverpool                    18
+    Jacob Murphy Newcastle Utd                    11
+Antonee Robinson        Fulham                    10
+
+Bottom 3:
+          Player        Team  Performance: assists
+   Yves Bissouma   Tottenham                     0
+  Aaron Ramsdale Southampton                     0
+Łukasz Fabiański    West Ham                     0
+
+
+--- Performance: yellow cards ---
+
+Top 3:
+     Player           Team  Performance: yellow cards
+ Saša Lukić         Fulham                         12
+Will Hughes Crystal Palace                         11
+   Dan Burn  Newcastle Utd                         10
+
+Bottom 3:
+               Player           Team  Performance: yellow cards
+      Albert Grønbaek    Southampton                          0
+         Adam Webster       Brighton                          0
+Abdul Fatawu Issahaku Leicester City                          0
+
+
+--- Performance: red cards ---
+
+Top 3:
+            Player           Team  Performance: red cards
+     Jack Stephens    Southampton                       2
+   Bruno Fernandes Manchester Utd                       2
+Myles Lewis-Skelly        Arsenal                       2
+
+Bottom 3:
+           Player        Team  Performance: red cards
+     Amadou Onana Aston Villa                       0
+  Andreas Pereira      Fulham                       0
+Aaron Wan-Bissaka    West Ham                       0
+
+
+--- Expected: xG ---
+
+Top 3:
+        Player            Team  Expected: xG
+ Mohamed Salah       Liverpool          23.9
+Erling Haaland Manchester City          20.8
+Alexander Isak   Newcastle Utd          19.0
+
+Bottom 3:
+            Player            Team  Expected: xG
+    Aaron Ramsdale     Southampton           0.0
+Abdukodir Khusanov Manchester City           0.0
+  Łukasz Fabiański        West Ham           0.0
+
+
+--- Expected: xAG ---
+
+Top 3:
+       Player      Team  Expected: xAG
+Mohamed Salah Liverpool           12.8
+  Cole Palmer   Chelsea            9.3
+Son Heung-min Tottenham            8.2
+
+Bottom 3:
+         Player           Team  Expected: xAG
+ Woyo Coulibaly Leicester City            0.0
+Alphonse Areola       West Ham            0.0
+ Tyrell Malacia Manchester Utd            0.0
+
+
+--- Progression: PrgC ---
+
+Top 3:
+       Player            Team  Progression: PrgC
+  Jeremy Doku Manchester City                176
+Mohamed Salah       Liverpool                142
+ Kaoru Mitoma        Brighton                138
+
+Bottom 3:
+          Player        Team  Progression: PrgC
+     Andy Irving    West Ham                  0
+  Aaron Ramsdale Southampton                  0
+Łukasz Fabiański    West Ham                  0
+
+
+--- Progression: PrgP ---
+
+Top 3:
+         Player            Team  Progression: PrgP
+Bruno Fernandes  Manchester Utd                281
+Bruno Guimarães   Newcastle Utd                241
+ Joško Gvardiol Manchester City                240
+
+Bottom 3:
+          Player      Team  Progression: PrgP
+ Alphonse Areola  West Ham                  0
+         Alisson Liverpool                  0
+Łukasz Fabiański  West Ham                  0
+
+
+--- Progression: PrgR ---
+
+Top 3:
+       Player      Team  Progression: PrgR
+Mohamed Salah Liverpool                425
+ Bryan Mbeumo Brentford                306
+ Kaoru Mitoma  Brighton                277
+
+Bottom 3:
+     Player            Team  Progression: PrgR
+ Willy Boly Nott'ham Forest                  0
+André Onana  Manchester Utd                  0
+    Alisson       Liverpool                  0
+
+
+--- Per 90 minutes: Gls ---
+
+Top 3:
+       Player            Team  Per 90 minutes: Gls
+Donyell Malen     Aston Villa                 0.99
+  Jáder Durán     Aston Villa                 0.99
+ James Mcatee Manchester City                 0.91
+
+Bottom 3:
+        Player           Team  Per 90 minutes: Gls
+Destiny Udogie      Tottenham                  0.0
+  Diego Carlos    Aston Villa                  0.0
+  Adam Wharton Crystal Palace                  0.0
+
+
+--- Per 90 minutes: Ast ---
+
+Top 3:
+        Player     Team  Per 90 minutes: Ast
+Tyrique George  Chelsea                 0.87
+    Danny Ings West Ham                 0.63
+   Bukayo Saka  Arsenal                 0.62
+
+Bottom 3:
+          Player         Team  Per 90 minutes: Ast
+     Alex Palmer Ipswich Town                  0.0
+Łukasz Fabiański     West Ham                  0.0
+ Albert Grønbaek  Southampton                  0.0
+
+
+--- Per 90 minutes: xG ---
+
+Top 3:
+       Player            Team  Per 90 minutes: xG
+ James Mcatee Manchester City                0.85
+  Richarlison       Tottenham                0.78
+Marco Asensio     Aston Villa                0.78
+
+Bottom 3:
+           Player      Team  Per 90 minutes: xG
+Guglielmo Vicario Tottenham                 0.0
+      Wataru Endo Liverpool                 0.0
+ Łukasz Fabiański  West Ham                 0.0
+
+
+--- Per 90 minutes: xAG ---
+
+Top 3:
+         Player        Team  Per 90 minutes: xAG
+ Tyrique George     Chelsea                 0.63
+Mykhailo Mudryk     Chelsea                 0.58
+ Philip Billing Bournemouth                 0.54
+
+Bottom 3:
+           Player        Team  Per 90 minutes: xAG
+Caoimhín Kelleher   Liverpool                  0.0
+   Aaron Ramsdale Southampton                  0.0
+ Łukasz Fabiański    West Ham                  0.0
+
+
+--- Goalkeeping: Performance: GA90 ---
+
+Top 3:
+          Player           Team  Goalkeeping: Performance: GA90
+      Danny Ward Leicester City                            4.00
+Christian Walton   Ipswich Town                            2.67
+   Alex McCarthy    Southampton                            2.60
+
+Bottom 3:
+      Player      Team  Goalkeeping: Performance: GA90
+Jason Steele  Brighton                            0.50
+     Alisson Liverpool                            0.84
+  David Raya   Arsenal                            0.85
+
+
+--- Goalkeeping: Performance: Save% ---
+
+Top 3:
+        Player        Team  Goalkeeping: Performance: Save%
+          Neto Bournemouth                             84.6
+  Mark Travers Bournemouth                             80.0
+Robert Sánchez     Chelsea                             76.7
+
+Bottom 3:
+                 Player           Team  Goalkeeping: Performance: Save%
+             Danny Ward Leicester City                             40.0
+Hákon Rafn Valdimarsson      Brentford                             50.0
+            Robin Olsen    Aston Villa                             55.6
+
+
+--- Goalkeeping: Performance: CS% ---
+
+Top 3:
+                 Player          Team  Goalkeeping: Performance: CS%
+Hákon Rafn Valdimarsson     Brentford                          100.0
+            Robin Olsen   Aston Villa                          100.0
+        Martin Dúbravka Newcastle Utd                           50.0
+
+Bottom 3:
+       Player        Team  Goalkeeping: Performance: CS%
+   Joe Lumley Southampton                            0.0
+         Neto Bournemouth                            0.0
+Sam Johnstone      Wolves                            0.0
+
+
+--- Goalkeeping: Penalty Kicks: Save% ---
+
+Top 3:
+           Player          Team  Goalkeeping: Penalty Kicks: Save%
+Caoimhín Kelleher     Liverpool                              100.0
+  Jordan Pickford       Everton                              100.0
+        Nick Pope Newcastle Utd                               50.0
+
+Bottom 3:
+          Player            Team  Goalkeeping: Penalty Kicks: Save%
+   Sam Johnstone          Wolves                                0.0
+   Stefan Ortega Manchester City                                0.0
+Łukasz Fabiański        West Ham                                0.0
+
+
+--- Shooting: Standard: SoT% ---
+
+Top 3:
+        Player        Team  Shooting: Standard: SoT%
+Séamus Coleman     Everton                     100.0
+   Archie Gray   Tottenham                     100.0
+   Ryan Fraser Southampton                     100.0
+
+Bottom 3:
+            Player            Team  Shooting: Standard: SoT%
+Abdukodir Khusanov Manchester City                       0.0
+   Aaron Cresswell        West Ham                       0.0
+       Álex Moreno Nott'ham Forest                       0.0
+
+
+--- Shooting: Standard: SoT/90 ---
+
+Top 3:
+         Player        Team  Shooting: Standard: SoT/90
+   Julio Enciso    Brighton                        3.37
+  Donyell Malen Aston Villa                        2.64
+Luis Sinisterra Bournemouth                        2.29
+
+Bottom 3:
+          Player            Team  Shooting: Standard: SoT/90
+ Aaron Cresswell        West Ham                         0.0
+     Álex Moreno Nott'ham Forest                         0.0
+Łukasz Fabiański        West Ham                         0.0
+
+
+--- Shooting: Standard: G/Sh ---
+
+Top 3:
+            Player            Team  Shooting: Standard: G/Sh
+       John Stones Manchester City                       1.0
+Myles Lewis-Skelly         Arsenal                       0.5
+       Axel Disasi         Chelsea                       0.5
+
+Bottom 3:
+         Player           Team  Shooting: Standard: G/Sh
+   Tyrone Mings    Aston Villa                       0.0
+Tyrick Mitchell Crystal Palace                       0.0
+    Tyler Adams    Bournemouth                       0.0
+
+
+--- Shooting: Standard: Dist ---
+
+Top 3:
+          Player            Team  Shooting: Standard: Dist
+ Ibrahim Sangaré Nott'ham Forest                      32.0
+Emmanuel Agbadou          Wolves                      31.8
+     Ryan Fraser     Southampton                      31.6
+
+Bottom 3:
+        Player            Team  Shooting: Standard: Dist
+Kieran Tierney         Arsenal                       2.6
+  Harry Clarke    Ipswich Town                       4.5
+   John Stones Manchester City                       5.1
+
+
+--- Passing: Total: Cmp ---
+
+Top 3:
+         Player            Team  Passing: Total: Cmp
+Virgil van Dijk       Liverpool                 2446
+ William Saliba         Arsenal                 2273
+ Joško Gvardiol Manchester City                 2240
+
+Bottom 3:
+         Player           Team  Passing: Total: Cmp
+  William Osula  Newcastle Utd                   11
+Albert Grønbaek    Southampton                   13
+Odsonne Édouard Crystal Palace                   17
+
+
+--- Passing: Total: Cmp% ---
+
+Top 3:
+        Player            Team  Passing: Total: Cmp%
+William Saliba         Arsenal                  94.2
+ Manuel Akanji Manchester City                  93.9
+    Nathan Aké Manchester City                  93.9
+
+Bottom 3:
+      Player            Team  Passing: Total: Cmp%
+   Matz Sels Nott'ham Forest                  50.5
+George Hirst    Ipswich Town                  55.0
+        Beto         Everton                  56.6
+
+
+--- Passing: Total: TotDist ---
+
+Top 3:
+         Player      Team  Passing: Total: TotDist
+Virgil van Dijk Liverpool                    44780
+   Levi Colwill   Chelsea                    39487
+ William Saliba   Arsenal                    39201
+
+Bottom 3:
+         Player           Team  Passing: Total: TotDist
+  William Osula  Newcastle Utd                      126
+Albert Grønbaek    Southampton                      135
+Odsonne Édouard Crystal Palace                      230
+
+
+--- Passing: Short: Cmp% ---
+
+Top 3:
+          Player         Team  Passing: Short: Cmp%
+Łukasz Fabiański     West Ham                 100.0
+  Antonín Kinský    Tottenham                 100.0
+  Arijanet Muric Ipswich Town                 100.0
+
+Bottom 3:
+       Player          Team  Passing: Short: Cmp%
+William Osula Newcastle Utd                  61.5
+ Paul Onuachu   Southampton                  63.8
+ George Hirst  Ipswich Town                  66.7
+
+
+--- Passing: Medium: Cmp% ---
+
+Top 3:
+                 Player           Team  Passing: Medium: Cmp%
+             Danny Ward Leicester City                  100.0
+            Alex Palmer   Ipswich Town                  100.0
+Hákon Rafn Valdimarsson      Brentford                  100.0
+
+Bottom 3:
+         Player         Team  Passing: Medium: Cmp%
+   George Hirst Ipswich Town                   47.8
+           Beto      Everton                   48.5
+Albert Grønbaek  Southampton                   50.0
+
+
+--- Passing: Long: Cmp% ---
+
+Top 3:
+        Player           Team  Passing: Long: Cmp%
+   Wataru Endo      Liverpool                100.0
+Tyrell Malacia Manchester Utd                100.0
+   Andy Irving       West Ham                100.0
+
+Bottom 3:
+        Player        Team  Passing: Long: Cmp%
+     Enes Ünal Bournemouth                  0.0
+Tyrique George     Chelsea                  0.0
+  Ross Stewart Southampton                  0.0
+
+
+--- Passing: Expected: KP ---
+
+Top 3:
+         Player           Team  Passing: Expected: KP
+Bruno Fernandes Manchester Utd                     84
+  Mohamed Salah      Liverpool                     80
+    Cole Palmer        Chelsea                     78
+
+Bottom 3:
+          Player     Team  Passing: Expected: KP
+  Séamus Coleman  Everton                      0
+ Alphonse Areola West Ham                      0
+Łukasz Fabiański West Ham                      0
+
+
+--- Passing: Expected: 1/3 ---
+
+Top 3:
+         Player            Team  Passing: Expected: 1/3
+Virgil van Dijk       Liverpool                     265
+ Joško Gvardiol Manchester City                     225
+Youri Tielemans     Aston Villa                     221
+
+Bottom 3:
+         Player          Team  Passing: Expected: 1/3
+Martin Dúbravka Newcastle Utd                       0
+  Evan Ferguson      West Ham                       0
+   Jason Steele      Brighton                       0
+
+
+--- Passing: Expected: PPA ---
+
+Top 3:
+         Player      Team  Passing: Expected: PPA
+  Mohamed Salah Liverpool                      82
+Martin Ødegaard   Arsenal                      78
+     Alex Iwobi    Fulham                      77
+
+Bottom 3:
+            Player            Team  Passing: Expected: PPA
+   Albert Grønbaek     Southampton                       0
+Abdukodir Khusanov Manchester City                       0
+  Łukasz Fabiański        West Ham                       0
+
+
+--- Passing: Expected: CrsPA ---
+
+Top 3:
+           Player      Team  Passing: Expected: CrsPA
+ Antonee Robinson    Fulham                        26
+      Pedro Porro Tottenham                        26
+Vitaliy Mykolenko   Everton                        22
+
+Bottom 3:
+          Player        Team  Passing: Expected: CrsPA
+  Aaron Ramsdale Southampton                         0
+Łukasz Fabiański    West Ham                         0
+ Dominic Solanke   Tottenham                         0
+
+
+--- Passing: Expected: PrgP ---
+
+Top 3:
+         Player            Team  Passing: Expected: PrgP
+Bruno Fernandes  Manchester Utd                      281
+Bruno Guimarães   Newcastle Utd                      241
+ Joško Gvardiol Manchester City                      240
+
+Bottom 3:
+          Player      Team  Passing: Expected: PrgP
+ Alphonse Areola  West Ham                        0
+         Alisson Liverpool                        0
+Łukasz Fabiański  West Ham                        0
+
+
+--- Goal and Shot Creation: SCA: SCA ---
+
+Top 3:
+         Player           Team  Goal and Shot Creation: SCA: SCA
+    Cole Palmer        Chelsea                               180
+Bruno Fernandes Manchester Utd                               169
+  Mohamed Salah      Liverpool                               153
+
+Bottom 3:
+       Player            Team  Goal and Shot Creation: SCA: SCA
+Stefan Ortega Manchester City                                 0
+  Sven Botman   Newcastle Utd                                 0
+   Willy Boly Nott'ham Forest                                 0
+
+
+--- Goal and Shot Creation: SCA: SCA90 ---
+
+Top 3:
+         Player            Team  Goal and Shot Creation: SCA: SCA90
+ Philip Billing     Bournemouth                                7.83
+ Luis Guilherme        West Ham                                6.52
+Kevin De Bruyne Manchester City                                6.24
+
+Bottom 3:
+       Player            Team  Goal and Shot Creation: SCA: SCA90
+Stefan Ortega Manchester City                                 0.0
+ Jason Steele        Brighton                                 0.0
+Alex McCarthy     Southampton                                 0.0
+
+
+--- Goal and Shot Creation: GCA: GCA ---
+
+Top 3:
+          Player      Team  Goal and Shot Creation: GCA: GCA
+   Mohamed Salah Liverpool                                26
+     Bukayo Saka   Arsenal                                22
+Mikkel Damsgaard Brentford                                21
+
+Bottom 3:
+          Player        Team  Goal and Shot Creation: GCA: GCA
+   Yves Bissouma   Tottenham                                 0
+  Aaron Ramsdale Southampton                                 0
+Łukasz Fabiański    West Ham                                 0
+
+
+--- Goal and Shot Creation: GCA: GCA90 ---
+
+Top 3:
+     Player      Team  Goal and Shot Creation: GCA: GCA90
+Bukayo Saka   Arsenal                                1.36
+Solly March  Brighton                                1.08
+Mikey Moore Tottenham                                0.97
+
+Bottom 3:
+            Player            Team  Goal and Shot Creation: GCA: GCA90
+Abdukodir Khusanov Manchester City                                 0.0
+    Aaron Ramsdale     Southampton                                 0.0
+   Aaron Cresswell        West Ham                                 0.0
+
+
+--- Defensive Actions: Tackles: Tkl ---
+
+Top 3:
+            Player           Team  Defensive Actions: Tackles: Tkl
+Idrissa Gana Gueye        Everton                              123
+      Daniel Muñoz Crystal Palace                              109
+ Noussair Mazraoui Manchester Utd                              102
+
+Bottom 3:
+          Player        Team  Defensive Actions: Tackles: Tkl
+      Joe Lumley Southampton                                0
+  Aaron Ramsdale Southampton                                0
+Łukasz Fabiański    West Ham                                0
+
+
+--- Defensive Actions: Tackles: TklW ---
+
+Top 3:
+            Player           Team  Defensive Actions: Tackles: TklW
+Idrissa Gana Gueye        Everton                                74
+      Daniel Muñoz Crystal Palace                                70
+    Moisés Caicedo        Chelsea                                63
+
+Bottom 3:
+          Player         Team  Defensive Actions: Tackles: TklW
+     Ben Godfrey Ipswich Town                                 0
+  Aaron Ramsdale  Southampton                                 0
+Łukasz Fabiański     West Ham                                 0
+
+
+--- Defensive Actions: Challenges: Att ---
+
+Top 3:
+                Player      Team  Defensive Actions: Challenges: Att
+Trent Alexander-Arnold Liverpool                                 101
+   Alexis Mac Allister Liverpool                                 101
+            João Gomes    Wolves                                  97
+
+Bottom 3:
+       Player        Team  Defensive Actions: Challenges: Att
+   Joe Lumley Southampton                                   0
+Armando Broja     Everton                                   0
+ Jason Steele    Brighton                                   0
+
+
+--- Defensive Actions: Challenges: Lost ---
+
+Top 3:
+                Player            Team  Defensive Actions: Challenges: Lost
+            João Gomes          Wolves                                   59
+Trent Alexander-Arnold       Liverpool                                   53
+       Elliot Anderson Nott'ham Forest                                   52
+
+Bottom 3:
+        Player            Team  Defensive Actions: Challenges: Lost
+    Danny Ward  Leicester City                                    0
+    Willy Boly Nott'ham Forest                                    0
+Woyo Coulibaly  Leicester City                                    0
+
+
+--- Defensive Actions: Blocks: Blocks ---
+
+Top 3:
+         Player            Team  Defensive Actions: Blocks: Blocks
+ Nathan Collins       Brentford                                 69
+        Murillo Nott'ham Forest                                 66
+Tyrick Mitchell  Crystal Palace                                 62
+
+Bottom 3:
+          Player        Team  Defensive Actions: Blocks: Blocks
+          Thiago   Brentford                                  0
+  Aaron Ramsdale Southampton                                  0
+Łukasz Fabiański    West Ham                                  0
+
+
+--- Defensive Actions: Blocks: Sh ---
+
+Top 3:
+        Player            Team  Defensive Actions: Blocks: Sh
+Nathan Collins       Brentford                             49
+   Dara O'Shea    Ipswich Town                             47
+       Murillo Nott'ham Forest                             43
+
+Bottom 3:
+            Player           Team  Defensive Actions: Blocks: Sh
+Alejandro Garnacho Manchester Utd                              0
+    Tyrique George        Chelsea                              0
+    Tyrell Malacia Manchester Utd                              0
+
+
+--- Defensive Actions: Blocks: Pass ---
+
+Top 3:
+             Player           Team  Defensive Actions: Blocks: Pass
+Alexis Mac Allister      Liverpool                               54
+    Antoine Semenyo    Bournemouth                               51
+    Tyrick Mitchell Crystal Palace                               50
+
+Bottom 3:
+       Player           Team  Defensive Actions: Blocks: Pass
+      Alisson      Liverpool                                0
+Ali Al Hamadi   Ipswich Town                                0
+  André Onana Manchester Utd                                0
+
+
+--- Defensive Actions: Blocks: Int ---
+
+Top 3:
+           Player      Team  Defensive Actions: Blocks: Int
+Aaron Wan-Bissaka  West Ham                              59
+ Ryan Gravenberch Liverpool                              57
+ Antonee Robinson    Fulham                              56
+
+Bottom 3:
+          Player      Team  Defensive Actions: Blocks: Int
+ Alphonse Areola  West Ham                               0
+  Antonín Kinský Tottenham                               0
+Łukasz Fabiański  West Ham                               0
+
+
+--- Possession: Touches: Touches ---
+
+Top 3:
+         Player            Team  Possession: Touches: Touches
+Virgil van Dijk       Liverpool                          3010
+ Joško Gvardiol Manchester City                          2808
+   Levi Colwill         Chelsea                          2669
+
+Bottom 3:
+         Player           Team  Possession: Touches: Touches
+Albert Grønbaek    Southampton                            38
+  William Osula  Newcastle Utd                            41
+Odsonne Édouard Crystal Palace                            45
+
+
+--- Possession: Touches: Def Pen ---
+
+Top 3:
+      Player           Team  Possession: Touches: Def Pen
+Mark Flekken      Brentford                          1305
+  Bernd Leno         Fulham                          1066
+ André Onana Manchester Utd                          1005
+
+Bottom 3:
+        Player        Team  Possession: Touches: Def Pen
+   Emi Buendía Aston Villa                             0
+ Evan Ferguson    West Ham                             1
+Tyrique George     Chelsea                             1
+
+
+--- Possession: Touches: Def 3rd ---
+
+Top 3:
+         Player      Team  Possession: Touches: Def 3rd
+   Mark Flekken Brentford                          1615
+Jordan Pickford   Everton                          1451
+     Bernd Leno    Fulham                          1318
+
+Bottom 3:
+         Player           Team  Possession: Touches: Def 3rd
+  William Osula  Newcastle Utd                             2
+Odsonne Édouard Crystal Palace                             4
+  Callum Wilson  Newcastle Utd                             5
+
+
+--- Possession: Touches: Mid 3rd ---
+
+Top 3:
+         Player      Team  Possession: Touches: Mid 3rd
+Virgil van Dijk Liverpool                          1664
+ William Saliba   Arsenal                          1495
+ Moisés Caicedo   Chelsea                          1442
+
+Bottom 3:
+      Player           Team  Possession: Touches: Mid 3rd
+Jason Steele       Brighton                             0
+  Danny Ward Leicester City                             0
+        Neto    Bournemouth                             0
+
+
+--- Possession: Touches: Att 3rd ---
+
+Top 3:
+         Player           Team  Possession: Touches: Att 3rd
+  Mohamed Salah      Liverpool                           993
+Bruno Fernandes Manchester Utd                           888
+   Bryan Mbeumo      Brentford                           876
+
+Bottom 3:
+          Player      Team  Possession: Touches: Att 3rd
+  Fraser Forster Tottenham                             0
+ Filip Jørgensen   Chelsea                             0
+Łukasz Fabiański  West Ham                             0
+
+
+--- Possession: Touches: Att Pen ---
+
+Top 3:
+         Player          Team  Possession: Touches: Att Pen
+  Mohamed Salah     Liverpool                           320
+Antoine Semenyo   Bournemouth                           176
+ Alexander Isak Newcastle Utd                           175
+
+Bottom 3:
+          Player         Team  Possession: Touches: Att Pen
+  Aaron Ramsdale  Southampton                             0
+     Alex Palmer Ipswich Town                             0
+Łukasz Fabiański     West Ham                             0
+
+
+--- Possession: Take-Ons: Att ---
+
+Top 3:
+        Player            Team  Possession: Take-Ons: Att
+Mohammed Kudus        West Ham                        188
+   Jeremy Doku Manchester City                        175
+ Morgan Rogers     Aston Villa                        145
+
+Bottom 3:
+         Player        Team  Possession: Take-Ons: Att
+Alphonse Areola    West Ham                          0
+ Aaron Ramsdale Southampton                          0
+Yerson Mosquera      Wolves                          0
+
+
+--- Possession: Take-Ons: Succ% ---
+
+Top 3:
+          Player        Team  Possession: Take-Ons: Succ%
+Łukasz Fabiański    West Ham                        100.0
+ Aaron Cresswell    West Ham                        100.0
+    Tyrone Mings Aston Villa                        100.0
+
+Bottom 3:
+            Player            Team  Possession: Take-Ons: Succ%
+   Ibrahim Sangaré Nott'ham Forest                          0.0
+    Woyo Coulibaly  Leicester City                          0.0
+Abdukodir Khusanov Manchester City                          0.0
+
+
+--- Possession: Take-Ons: Tkld% ---
+
+Top 3:
+             Player        Team  Possession: Take-Ons: Tkld%
+Armel Bella Kotchap Southampton                        100.0
+     Santiago Bueno      Wolves                        100.0
+  Benoît Badiashile     Chelsea                        100.0
+
+Bottom 3:
+          Player        Team  Possession: Take-Ons: Tkld%
+ Trevoh Chalobah     Chelsea                          0.0
+       Welington Southampton                          0.0
+Łukasz Fabiański    West Ham                          0.0
+
+
+--- Possession: Carries: Carries ---
+
+Top 3:
+         Player            Team  Possession: Carries: Carries
+ Joško Gvardiol Manchester City                          1826
+Virgil van Dijk       Liverpool                          1682
+ William Saliba         Arsenal                          1642
+
+Bottom 3:
+         Player            Team  Possession: Carries: Carries
+  Harry Toffolo Nott'ham Forest                            17
+Albert Grønbaek     Southampton                            18
+Odsonne Édouard  Crystal Palace                            23
+
+
+--- Possession: Carries: PrgDist ---
+
+Top 3:
+            Player            Team  Possession: Carries: PrgDist
+Jan Paul van Hecke        Brighton                          6643
+    Joško Gvardiol Manchester City                          5505
+        Rúben Dias Manchester City                          5097
+
+Bottom 3:
+         Player            Team  Possession: Carries: PrgDist
+Albert Grønbaek     Southampton                            15
+  Harry Toffolo Nott'ham Forest                            23
+ Massimo Luongo    Ipswich Town                            25
+
+
+--- Possession: Carries: PrgC ---
+
+Top 3:
+       Player            Team  Possession: Carries: PrgC
+  Jeremy Doku Manchester City                        176
+Mohamed Salah       Liverpool                        142
+ Kaoru Mitoma        Brighton                        138
+
+Bottom 3:
+          Player        Team  Possession: Carries: PrgC
+     Andy Irving    West Ham                          0
+  Aaron Ramsdale Southampton                          0
+Łukasz Fabiański    West Ham                          0
+
+
+--- Possession: Carries: 1/3 ---
+
+Top 3:
+        Player            Team  Possession: Carries: 1/3
+    Alex Iwobi          Fulham                        99
+Joško Gvardiol Manchester City                        91
+ Matheus Cunha          Wolves                        88
+
+Bottom 3:
+          Player           Team  Possession: Carries: 1/3
+     André Onana Manchester Utd                         0
+  Aaron Ramsdale    Southampton                         0
+Łukasz Fabiański       West Ham                         0
+
+
+--- Possession: Carries: CPA ---
+
+Top 3:
+       Player            Team  Possession: Carries: CPA
+Mohamed Salah       Liverpool                       113
+ Noni Madueke         Chelsea                        80
+  Jeremy Doku Manchester City                        80
+
+Bottom 3:
+          Player        Team  Possession: Carries: CPA
+   Yves Bissouma   Tottenham                         0
+  Aaron Ramsdale Southampton                         0
+Łukasz Fabiański    West Ham                         0
+
+
+--- Possession: Carries: Mis ---
+
+Top 3:
+       Player        Team  Possession: Carries: Mis
+Mohamed Salah   Liverpool                       105
+Morgan Rogers Aston Villa                       102
+ Bryan Mbeumo   Brentford                        97
+
+Bottom 3:
+          Player           Team  Possession: Carries: Mis
+      Danny Ward Leicester City                         0
+ Alphonse Areola       West Ham                         0
+Łukasz Fabiański       West Ham                         0
+
+
+--- Possession: Carries: Dis ---
+
+Top 3:
+          Player          Team  Possession: Carries: Dis
+  Mohammed Kudus      West Ham                        88
+ Bruno Guimarães Newcastle Utd                        73
+Dejan Kulusevski     Tottenham                        72
+
+Bottom 3:
+          Player           Team  Possession: Carries: Dis
+ Alphonse Areola       West Ham                         0
+     André Onana Manchester Utd                         0
+Łukasz Fabiański       West Ham                         0
+
+
+--- Possession: Receiving: Rec ---
+
+Top 3:
+         Player            Team  Possession: Receiving: Rec
+Virgil van Dijk       Liverpool                        2063
+ Joško Gvardiol Manchester City                        2062
+ William Saliba         Arsenal                        2013
+
+Bottom 3:
+         Player           Team  Possession: Receiving: Rec
+Albert Grønbaek    Southampton                          21
+Odsonne Édouard Crystal Palace                          26
+  William Osula  Newcastle Utd                          27
+
+
+--- Possession: Receiving: PrgR ---
+
+Top 3:
+          Player          Team  Possession: Receiving: PrgR
+  Mohammed Kudus      West Ham                           88
+ Bruno Guimarães Newcastle Utd                           73
+Dejan Kulusevski     Tottenham                           72
+
+Bottom 3:
+          Player           Team  Possession: Receiving: PrgR
+ Alphonse Areola       West Ham                            0
+     André Onana Manchester Utd                            0
+Łukasz Fabiański       West Ham                            0
+
+
+--- Miscellaneous: Performance: Fls ---
+
+Top 3:
+         Player         Team  Miscellaneous: Performance: Fls
+Antoine Semenyo  Bournemouth                               65
+     Liam Delap Ipswich Town                               65
+     João Gomes       Wolves                               65
+
+Bottom 3:
+         Player           Team  Miscellaneous: Performance: Fls
+        Alisson      Liverpool                                0
+    André Onana Manchester Utd                                0
+Alphonse Areola       West Ham                                0
+
+
+--- Miscellaneous: Performance: Fld ---
+
+Top 3:
+         Player          Team  Miscellaneous: Performance: Fld
+Bruno Guimarães Newcastle Utd                               99
+  Matheus Cunha        Wolves                               69
+ James Maddison     Tottenham                               64
+
+Bottom 3:
+         Player            Team  Miscellaneous: Performance: Fld
+     Willy Boly Nott'ham Forest                                0
+Alphonse Areola        West Ham                                0
+  Andrés García     Aston Villa                                0
+
+
+--- Miscellaneous: Performance: Off ---
+
+Top 3:
+               Player            Team  Miscellaneous: Performance: Off
+Dominic Calvert-Lewin         Everton                               27
+           Chris Wood Nott'ham Forest                               26
+          Jamie Vardy  Leicester City                               25
+
+Bottom 3:
+          Player            Team  Miscellaneous: Performance: Off
+   Yves Bissouma       Tottenham                                0
+     Álex Moreno Nott'ham Forest                                0
+Łukasz Fabiański        West Ham                                0
+
+
+--- Miscellaneous: Performance: Crs ---
+
+Top 3:
+         Player           Team  Miscellaneous: Performance: Crs
+    Pedro Porro      Tottenham                              191
+   Bryan Mbeumo      Brentford                              177
+Bruno Fernandes Manchester Utd                              172
+
+Bottom 3:
+          Player           Team  Miscellaneous: Performance: Crs
+    Diego Carlos    Aston Villa                                0
+  Woyo Coulibaly Leicester City                                0
+Łukasz Fabiański       West Ham                                0
+
+
+--- Miscellaneous: Performance: Recov ---
+
+Top 3:
+         Player            Team  Miscellaneous: Performance: Recov
+ Moisés Caicedo         Chelsea                                197
+Bruno Fernandes  Manchester Utd                                192
+Elliot Anderson Nott'ham Forest                                186
+
+Bottom 3:
+                 Player           Team  Miscellaneous: Performance: Recov
+             Danny Ward Leicester City                                  1
+         Fraser Forster      Tottenham                                  1
+Hákon Rafn Valdimarsson      Brentford                                  1
+
+
+--- Miscellaneous: Aerial Duels: Won ---
+
+Top 3:
+         Player          Team  Miscellaneous: Aerial Duels: Won
+       Dan Burn Newcastle Utd                               127
+Virgil van Dijk     Liverpool                               110
+ Nathan Collins     Brentford                               110
+
+Bottom 3:
+        Player           Team  Miscellaneous: Aerial Duels: Won
+Tyrell Malacia Manchester Utd                                 0
+        Antony Manchester Utd                                 0
+     Welington    Southampton                                 0
+
+
+--- Miscellaneous: Aerial Duels: Lost ---
+
+Top 3:
+              Player            Team  Miscellaneous: Aerial Duels: Lost
+          Chris Wood Nott'ham Forest                                123
+Jørgen Strand Larsen          Wolves                                 96
+Jean-Philippe Mateta  Crystal Palace                                 95
+
+Bottom 3:
+        Player            Team  Miscellaneous: Aerial Duels: Lost
+       Alisson       Liverpool                                  0
+ Stefan Ortega Manchester City                                  0
+Antonín Kinský       Tottenham                                  0
+
+
+--- Miscellaneous: Aerial Duels: Won% ---
+
+Top 3:
+         Player           Team  Miscellaneous: Aerial Duels: Won%
+Albert Grønbaek    Southampton                              100.0
+      Luke Shaw Manchester Utd                              100.0
+    Alex Palmer   Ipswich Town                              100.0
+
+Bottom 3:
+       Player           Team  Miscellaneous: Aerial Duels: Won%
+Andrés García    Aston Villa                                0.0
+       Antony Manchester Utd                                0.0
+    Welington    Southampton                                0.0
