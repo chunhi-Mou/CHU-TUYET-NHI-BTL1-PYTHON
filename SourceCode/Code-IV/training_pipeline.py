@@ -1,4 +1,4 @@
-import os, re, joblib, traceback
+import os,traceback
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -13,11 +13,11 @@ from sklearn.compose import ColumnTransformer
 from scipy.stats import uniform, randint
 
 # --- Config ---
-FILE_STATS = 'Report/OUTPUT_PART1/results.csv'
-FILE_VAL = 'Report/OUTPUT_PART4/estimation_data_with_highest_etv.csv'
-FILE_MODEL = 'Report/OUTPUT_PART4/player_value_model.joblib'
-FILE_PREP = 'Report/OUTPUT_PART4/player_value_preprocessor.joblib'
-DIR_PLOTS = 'Report/OUTPUT_PART4/plots'
+FILE_STATS = 'Report/OUTPUT/OUTPUT_PART1/results.csv'
+FILE_VAL = 'Report/OUTPUT/OUTPUT_PART4/estimation_data_with_highest_etv.csv'
+FILE_MODEL = 'Report/OUTPUT/OUTPUT_PART4/player_value_model.joblib'
+FILE_PREP = 'Report/OUTPUT/OUTPUT_PART4/player_value_preprocessor.joblib'
+DIR_PLOTS = 'Report/OUTPUT/OUTPUT_PART4/plots'
 COL_TARGET = 'TransferValue_EUR_Millions'
 ID_COLS = ['Player', 'Nation', 'Team', 'Team_TransferSite']
 CAT_COLS_BASE = ['Position']
