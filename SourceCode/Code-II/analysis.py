@@ -1,8 +1,5 @@
 import pandas as pd
-import numpy as np
-from sklearn.preprocessing import StandardScaler
-from sklearn.decomposition import PCA
-from sklearn.impute import SimpleImputer
+from config_part2 import *
 
 def get_top_bottom_players(df, stat_col, n=3):
     df_valid = df[['Player', 'Team', stat_col]].copy()
@@ -73,29 +70,42 @@ def calculate_stats_summary(df, stats_cols):
 
     return summary
 
-def find_top_performing_teams_pca(df, pca_cols, negative_cols, n_top=5):
+def print_top_team_per_statistic(summary_df, relevant_stats):
+    print("\n--- The team with the highest scores for each statistic ---")
+    teams_df = summary_df[summary_df['Team'] != 'all'].copy()
+    if teams_df.empty:
+        print("No team data")
+        return
 
-    df = df[df['Team'] != 'all'].copy()
-    cols = [f'Median of {col}' for col in pca_cols if f'Median of {col}' in df.columns]
-    if not cols:
-        return None
+    top_teams_for_positive_stats = []
+    positive_stats_considered = []
 
-    data = df[['Team'] + cols].copy()
-    data[cols] = data[cols].apply(pd.to_numeric, errors='coerce')
+    for stat in relevant_stats:
+        col = f'Mean of {stat}'
+        if col not in teams_df.columns:
+            print(f"Col '{col}' not found.")
+            continue
+        teams_df[col] = pd.to_numeric(teams_df[col], errors='coerce')
+        valid_df = teams_df.dropna(subset=[col])
+        if valid_df.empty:
+            print(f"No valid data for '{col}'.")
+            continue
+        top_row = valid_df.loc[valid_df[col].idxmax()]
+        top_team = top_row['Team']
+        top_value = top_row[col]
+        print(f"Top team for '{stat}': {top_team} (mean = {top_value:.3f})")
+        
+        if stat not in NEGATIVE_STATS:
+            top_teams_for_positive_stats.append(top_team)
+            positive_stats_considered.append(stat)
 
-    for col in [f'Median of {c}' for c in negative_cols if f'Median of {c}' in cols]:
-        data[col] *= -1
+    if not top_teams_for_positive_stats:
+        print("No top teams")
+        return
 
-    imputed = SimpleImputer(strategy='median').fit_transform(data[cols])
-    scaled = StandardScaler().fit_transform(imputed)
-    if np.isnan(scaled).all() or scaled.shape[1] == 0:
-        return None
+    top_team_series = pd.Series(top_teams_for_positive_stats)
+    most_common_team = top_team_series.value_counts().idxmax()
+    most_common_count = top_team_series.value_counts().max()
+    print(f"\nTop: {most_common_team} (appeared {most_common_count} times / {len(positive_stats_considered)} non-negative statistics considered)")
 
-    try:
-        pc1 = PCA(n_components=1).fit_transform(scaled).flatten()
-    except Exception:
-        return None
 
-    return pd.DataFrame({'Team': data['Team'], 'PCA_Score': pc1}) \
-            .sort_values('PCA_Score', ascending=False) \
-            .reset_index(drop=True).head(n_top)

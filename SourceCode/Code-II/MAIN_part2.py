@@ -4,7 +4,6 @@ from analysis import *
 from plotting import *
 
 def load_data():
-    print(f"\n[1/5] Load {INPUT_CSV}")
     try:
         df = pd.read_csv(INPUT_CSV)
         numeric_cols = [col for col in df.columns if col not in EXCLUDED_COLUMNS_FROM_TOP3]
@@ -21,7 +20,6 @@ def load_data():
     return None, []
 
 def find_top_bottom_players_all_stats(df, numeric_cols):
-    print(f"\n[2/5] Find Top/Bottom 3 players")
     try:
         with open(TOP_3_FILE, 'w', encoding='utf-8-sig') as f:
             f.write("--- Top and Bottom 3 Players per Statistic ---\n")
@@ -36,7 +34,6 @@ def find_top_bottom_players_all_stats(df, numeric_cols):
         print(f"Error writing file: {e}")
 
 def generate_statistics_summary(df, numeric_cols):
-    print(f"\n[3/5] Calculate stats summary")
     summary_df = calculate_stats_summary(df, numeric_cols)
     if summary_df is not None:
         try:
@@ -52,29 +49,14 @@ def generate_statistics_summary(df, numeric_cols):
     return summary_df
 
 def generate_histograms(df):
-    print(f"\n[4/5] Generating histograms")
     for stat in SELECTED_STATS:
         if stat in df.columns:
-            print(f"Plotting {stat}")
+            print(f"Plot {stat}")
             plot_histogram_all_players(df, stat)
             plot_histograms_per_team_facet(df, stat)
         else:
             print(f"Warn: {stat} not found")
     print(f"Plots saved in {PLOTS_FOLDER}")
-
-def identify_top_teams_and_comment(summary_df, numeric_cols):
-    print("\n[5/5] Find top teams with PCA")
-    pca_stats = [col for col in numeric_cols if col not in EXCLUDED_COLUMNS_FROM_TOP3]
-    print(f"Use {len(pca_stats)} stats for PCA.")
-
-    top_df = find_top_performing_teams_pca(summary_df, pca_cols=pca_stats, negative_cols=NEGATIVE_STATS, n_top=5)
-    if top_df is not None and not top_df.empty:
-        print("\n--- Top Teams (PCA Score) ---")
-        top_df['PCA_Score'] = top_df['PCA_Score'].map('{:,.3f}'.format)
-        print(top_df.to_string(index=False))
-        print(f"\n=> Best team: '{top_df.iloc[0]['Team']}'")
-    else:
-        print("PCA done: No teams ranked or failed.")
 
 def main():
     print("--- Start Part II ---")
@@ -82,8 +64,8 @@ def main():
     if df is None: return
     find_top_bottom_players_all_stats(df, numeric_cols)
     summary_df = generate_statistics_summary(df, numeric_cols)
+    print_top_team_per_statistic(summary_df, numeric_cols) 
     generate_histograms(df)
-    identify_top_teams_and_comment(summary_df, numeric_cols)
     print("--- Part II Complete ---")
 
 if __name__ == "__main__":
