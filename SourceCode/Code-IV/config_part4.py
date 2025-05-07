@@ -1,7 +1,7 @@
 import os
 
-OUTPUT_FOLDER = 'Report/OUTPUT_PART4'
-PART1_RESULTS_FILE = os.path.join('Report/OUTPUT_PART1', 'results.csv')
+OUTPUT_FOLDER = 'Report/OUTPUT/OUTPUT_PART4'
+PART1_RESULTS_FILE = os.path.join('Report/OUTPUT/OUTPUT_PART1', 'results.csv')
 RAW_DATA_FILENAME = os.path.join(OUTPUT_FOLDER, 'raw_data_with_highest_etv.csv')
 ESTIMATION_READY_DATA_FILENAME = os.path.join(OUTPUT_FOLDER, 'estimation_data_with_highest_etv.csv')
 

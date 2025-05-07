@@ -8,8 +8,8 @@ from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
 
 # --- Configuration ---
-INPUT_CSV = 'Report/OUTPUT_PART1/results.csv'
-OUTPUT_FOLDER = 'Report/OUTPUT_PART3'
+INPUT_CSV = 'Report/OUTPUT/OUTPUT_PART1/results.csv'
+OUTPUT_FOLDER = 'Report/OUTPUT/OUTPUT_PART3'
 ELBOW_PLOT_PATH = os.path.join(OUTPUT_FOLDER, 'kmeans_elbow_plot.png')
 PCA_PLOT_PATH = os.path.join(OUTPUT_FOLDER, 'pca_kmeans_cluster_plot.png')
 

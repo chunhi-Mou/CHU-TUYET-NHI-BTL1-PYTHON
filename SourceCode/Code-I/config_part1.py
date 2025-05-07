@@ -1,6 +1,6 @@
 import os
 
-OUTPUT_FOLDER = 'Report/OUTPUT_PART1'
+OUTPUT_FOLDER = 'Report/OUTPUT/OUTPUT_PART1'
 OUTPUT_FILENAME = os.path.join(OUTPUT_FOLDER, 'results.csv')
 WAIT_TIME = 15 # seconds
 

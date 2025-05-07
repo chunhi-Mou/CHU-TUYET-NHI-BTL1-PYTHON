@@ -1,7 +1,7 @@
 import os
 
-INPUT_CSV = 'Report/OUTPUT_PART1/results.csv'
-OUTPUT_FOLDER = 'Report/OUTPUT_PART2'
+INPUT_CSV = 'Report/OUTPUT/OUTPUT_PART1/results.csv'
+OUTPUT_FOLDER = 'Report/OUTPUT/OUTPUT_PART2'
 TOP_3_FILE = os.path.join(OUTPUT_FOLDER, 'top_3.txt')
 STATS_SUMMARY_FILE = os.path.join(OUTPUT_FOLDER, 'results2.csv')
 PLOTS_FOLDER = os.path.join(OUTPUT_FOLDER, 'plots')
