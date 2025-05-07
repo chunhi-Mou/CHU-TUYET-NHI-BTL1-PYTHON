@@ -140,5 +140,3 @@ if __name__ == '__main__':
         X_train, X_test, y_train, y_test, num_cols, cat_cols = split_and_prep_data(df, ID_COLS, CAT_COLS_BASE, col_target, col_etv)
         prep = build_preprocessor(num_cols, cat_cols)
         model, prep = train(X_train, X_test, y_train, y_test, prep, DIR_PLOTS)
-        joblib.dump(model, FILE_MODEL)
-        joblib.dump(prep, FILE_PREP)
